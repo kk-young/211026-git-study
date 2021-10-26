@@ -8,6 +8,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-메인 화면
+메인 화면 2 상단 메뉴 네비게이션 
 </body>
 </html>
